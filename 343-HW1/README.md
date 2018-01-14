@@ -45,7 +45,7 @@
 - Creates another branch apart from master
 - -d before branch to delete
 
-</b>git rm < Filename ></b>
+<b>git rm < Filename ></b>
 - Deletes files and stages those files to be deleted on Github
 
 <b>git merge < Branch ></b>
