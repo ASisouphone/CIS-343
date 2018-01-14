@@ -1,7 +1,7 @@
 <h1>Git Commands</h1>
 
 <b>git</b>
-- Show the Git help menu containing all the Git commands
+- Shows the Git help menu containing all the Git commands
 
 <b>git init</b>
 - Initializes a Git repository in the current directory
@@ -40,6 +40,7 @@
 
 <b>git checkout -- < Target ></b>
 - Gets rid of all the changes since the last commit to the target
+- Switches to a different branch
 
 <b>git branch < Branch Name ></b>
 - Creates another branch apart from master
